@@ -1,6 +1,7 @@
- <h1 align="center">Hi 👋, I'm Ajay Singh</h1>
+<h1 align="center">Hi 👋, I'm Ajay Singh</h1>
 <h3 align="center">A passionate Data Analysist from India</h3>
-<img align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/1_ygbnQgmW7LJisYrnbxX6brSVrCdZHLF/view?usp=sharing"> 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
+"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajaysingh0812&label=Profile%20views&color=0e75b6&style=flat" alt="ajaysingh0812" /> </p>
 
@@ -12,7 +13,8 @@
 
 - 📫 How to reach me **ajaysingh99064@gmail.com**
 
-- 📄 Resume
+- 📄 Resume https://drive.google.com/file/d/1HkQTzTQxXwR99N0xdMYEoCOrgQ100Ryx/view?usp=sharing">
+      
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -30,5 +32,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajaysingh0812&show_icons=true&locale=en" alt="ajaysingh0812" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajaysingh0812&" alt="ajaysingh0812" /></p>
+
+  
+
 
  
