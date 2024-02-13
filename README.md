@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **ajaysingh99064@gmail.com**
 
-- 📄   Resume">
+- 📄Resume :-  https://drive.google.com/file/d/1RD6utHKYV_TP9fm7GtyZ-5mAos4w6gVT/view?usp=sharing">  
       
 
 <h3 align="left">Connect with me:</h3>
