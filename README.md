@@ -1,7 +1,7 @@
 **Hey! Nice to See You**
-![logo](https://github.com/AjaySingh0812/AjaySingh0812/blob/main/11.png)
+![logo](https://github.com/AjaySingh0812/AjaySingh0812/blob/main/Linked%20in%20banner%2001.png)
 <h1 align="center">Hi 👋, I'm Ajay Singh</h1>
-<h3 align="center">A passionate Data Analysist from India</h3>
+<h3 align="center">A passionate Java Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
 "> 
 
@@ -9,13 +9,13 @@
 
 <p align="left"> <a href="https://twitter.com/iam_aj_singh" target="blank"><img src="https://img.shields.io/twitter/follow/iam_aj_singh?logo=twitter&style=for-the-badge" alt="iam_aj_singh" /></a> </p>
 
-- 🌱 I’m currently learning **Front End Development**
+- 🌱 I’m currently learning **Full Stack Development**
 
-- 💬 Ask me about **Data Science, Data Analytics , Power BI etc.**
+- 💬 Ask me about **java, JDBC, JSP,JPA, MySql, HTML, CSS, Java Script etc.**
 
 - 📫 How to reach me **ajaysingh99064@gmail.com**
 
-- 📄Resume :-  https://drive.google.com/file/d/1uuLbEg7CzVBR-y-qan4on5dMgrGwC-ID/view?usp=sharing">  
+- 📄Resume :-   https://drive.google.com/file/d/10-38_ssyEwboAzZ1d2_8zzMNF9ngdhCn/view?usp=sharing">  
       
 
 
